@@ -1,0 +1,95 @@
+body{
+  background-image: url(https://www.thelocal.com/wp-content/uploads/2020/04/7f4b0b19e152de3472f8b000cfe763a1828574ecb7b7dc812890d09938d21dea.jpg);
+
+ background-size: cover;
+ background-position: center;
+background-attachment: fixed;
+  }
+
+header{
+  text-align: center;
+  color:#ffffff;
+  padding-top:20px;
+
+}
+.form{
+  margin:0px 300px 15px 300px;
+  border-radius: 2px;
+  border-style: solid;
+  background-color: #0b0626;
+  color:#ffffff;
+  line-height: 30px;
+  font-size: 20px;
+  padding-left:30px;
+  opacity: 0.1px;
+
+}
+
+.allsec{
+  background-color: #0b072b;
+ opacity: 0.7;
+ margin:-10px -10px -30px -10px;
+}
+.survey-form{
+    padding-top:15px;
+    width:300px;
+    line-height: 30px;
+    padding-right:300px;
+}
+.survey-form>input{
+  margin-bottom:20px;
+  width: 570px;
+  height:35px;
+  border-radius:5px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+select{
+    margin-bottom:20px;
+  width: 585px;
+  height:35px;
+  border-radius:5px;
+  font-size: 15px;
+  padding-left: 7px;
+}
+select
+.comments{
+  margin-top:20px;
+}
+
+.comments>input{
+  width: 570px;
+  padding-bottom:110px;
+  padding-top:10px;
+  margin-bottom:20px;
+  border-radius:5px;
+  font-size: 15px;
+  padding-left: 10px;
+
+}
+.comments{
+    margin-top:20px;
+}
+.submit>input{
+  margin-top:30px;
+  margin-bottom:60px;
+  width: 585px;
+  height:35px;
+  background-color: #23ba56;
+}
+.recommend>legend{
+  margin-top:10px;
+  margin-bottom:-35px;
+}
+.features{
+  margin-top:25px;
+}
+.features>select{
+  margin-top:-15px;
+}
+.seeImproved{
+    margin-top:20px;
+}
+.Options{
+  margin-top:18px;
+}
